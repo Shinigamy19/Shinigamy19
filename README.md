@@ -75,8 +75,8 @@
 <a href="https://processing.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/1200px-Processing_2021_logo.svg.png" alt="processing" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/clay-atlas.com/wp-content/uploads/2021/06/pngegg.png?fit=512%2C512&ssl=1" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="godot" width="40" height="40"/> </a> 
-<a href="https://gamemaker.io/en" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f8b5a241bd408776a9fef883e0e4b16ccedfebaf5c3e4c593b0b50f5bed79edb/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f67616d652d6d616b65722d322d3536393438352e706e67" alt="gamemaker" width="40" height="40"/> </a> 
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="godot" width="40" height="40" title="Godot"/> </a> 
+<a href="https://gamemaker.io/en" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f8b5a241bd408776a9fef883e0e4b16ccedfebaf5c3e4c593b0b50f5bed79edb/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f67616d652d6d616b65722d322d3536393438352e706e67" alt="gamemaker" title="Game Maker" width="40" height="40"/> </a> 
 </p>
 </td></tr>
 </table>
