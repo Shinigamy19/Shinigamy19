@@ -17,22 +17,23 @@
 <br></br>
 <h2 align="left">Mis habilidades:</h2>
 
-<table><tr><td valign="top" width="34%">
+
 <h3 align="left">Front-End:</h3>
 
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://www.dammio.com/wp-content/uploads/2017/03/jquery-logo.png" alt="jquery" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="html5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="css3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="javascript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="bootstrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="react"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="40" height="40"/> </a> 
+<a href="https://vuejs.org/" target="_blank" rel="vuejs"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="Vue.js" width="40" height="40"/> </a> 
+<a href="https://vuetifyjs.com/en/" target="_blank" rel="vuetify"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" title="Vuetify.js" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="typescript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="angular"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" title="Angular" width="40" height="40"/> </a> 
+<a href="https://jquery.com/" target="_blank" rel="jquery"> <img src="https://www.dammio.com/wp-content/uploads/2017/03/jquery-logo.png" alt="jquery" title="jQuery" width="40" height="40"/> </a> 
 </p>
 
-</td><td valign="top" width="33%">
+
 <h3 align="left">Back-End:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="c"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/> </a> 
@@ -55,7 +56,7 @@
 
 
 </p>
-</td><td valign="top" width="33%">
+
 <h3 align="left">Otros Conocimientos:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="arduino"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" width="40" height="40"/> </a> 
@@ -78,8 +79,7 @@
 <a href="https://godotengine.org/" target="_blank" rel="godot"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="godot" width="40" height="40" title="Godot"/> </a> 
 <a href="https://gamemaker.io/en" target="_blank" rel="gamemaker"> <img src="https://camo.githubusercontent.com/f8b5a241bd408776a9fef883e0e4b16ccedfebaf5c3e4c593b0b50f5bed79edb/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f67616d652d6d616b65722d322d3536393438352e706e67" alt="gamemaker" title="Game Maker" width="40" height="40"/> </a> 
 </p>
-</td></tr>
-</table>
+
 
 
 
