@@ -14,3 +14,8 @@
 <a href="https://shinigamy19.itch.io/" target="blank"><img align="center" src="https://static.itch.io/images/app-icon.svg" alt="shinigamy19" height="30" width="30" style="border-radius: 4px 4px 4px 4px" /></a>
 <a href="https://fb.com/shinigamy19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shinigamy19" height="30" width="30" /></a>
 </p>
+<br></br>
+<h2 align="left">Conocimiento de programacion en:</h2>
+
+<br></br>
+<h2 align="left">Programas que uso:</h2>
