@@ -2,8 +2,8 @@
 <h3 align="center">Y soy estudiante de Diseño Multimedia.</h3>
 
 
-<h3 align="left">Mis redes sociales:</h3>
-<p align="left">
+<h3 align="center">Mis redes sociales:</h3>
+<p align="center">
 <a href="https://www.youtube.com/c/shinigamy19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shinigamy19" height="35" width="35" /></a>
 <a href="https://twitch.tv/shinigamy_19" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/external-twitch-social-media-justicon-flat-justicon.png" alt="px9fcpbp3T" height="30" width="30" /></a>
 <a href="https://discord.gg/px9fcpbp3T" target="blank"><img align="center" src="https://images-eds-ssl.xboxlive.com/image?url=Q_rwcVSTCIytJ0KOzcjWTYl.n38D8jlKWXJx7NRJmQKBAEDCgtTAQ0JS02UoaiwRCHTTX1RAopljdoYpOaNfVf5nBNvbwGfyR5n4DAs0DsOwxSO9puiT_GgKqinHT8HsW8VYeiiuU1IG3jY69EhnsQ--&format=source&w=120" alt="px9fcpbp3T" height="30" width="30" style="border-radius: 4px 4px 4px 4px"  /></a>
