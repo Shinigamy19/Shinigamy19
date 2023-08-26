@@ -81,15 +81,27 @@
 
 
 <br></br>
-<h2 align="left">Programas que uso:</h2>
-<h3 align="left">Diseño y Video:</h3> 
+<h3 align="left">Herramientas:</h3> 
 <p align="left"> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="illustrator"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" title="Adobe Illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="photoshop"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Game Maker" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="photoshop"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Game Maker" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="illustrator"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" title="Adobe Illustrator" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="photoshop"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" title="Adobe Photoshop" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/audition.html" target="_blank" rel="audition"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/640px-Adobe_Audition_CC_icon_%282020%29.svg.png" alt="audition" title="Adobe Audition" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/ar/products/premiere.html" target="_blank" rel="premiere"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere" title="Adobe Premiere" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/es/products/aftereffects.html" target="_blank" rel="after"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" alt="after" title="Adobe After Effects" width="40" height="40"/> </a> 
+<a href="https://helpx.adobe.com/ar/media-encoder/get-started.html" target="_blank" rel="mediaencoder"> <img src="https://tecnologia.uniandes.edu.co/wp-content/uploads/2022/07/Adobe-Media-Encoder-Logo.png" alt="mediaencoder" title="Adobe Media Encoder" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/es/products/photoshop-lightroom.html" target="_blank" rel="lightroom"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1200px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png" alt="lightroom" title="Adobe Lightroom" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/es/products/indesign.html" target="_blank" rel="indesign"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/120px-Adobe_InDesign_CC_icon.svg.png" alt="indesign" title="Adobe Indesign" width="40" height="40"/> </a> 
+<a href="https://www.aseprite.org/" target="_blank" rel="aseprite"> <img src="https://alternativas-a.com/wp-content/uploads/aseprite.jpg" alt="aseprite" title="Aseprite" width="40" height="40" style="border-radius: 8px 8px 8px 8px"/> </a>
 <a href="https://krita.org/es/" target="_blank" rel="krita"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krita_Application_Logo.svg/256px-Krita_Application_Logo.svg.png" alt="krita" title="Krita" width="40" height="40"/> </a>
 <a href="https://www.coreldraw.com/la/" target="_blank" rel="corel"> <img src="https://seeklogo.com/images/C/coreldraw-2019-logo-73390B2962-seeklogo.com.png" alt="corel" title="Corel Draw" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngmart.com/files/23/Blender-Logo-PNG-Isolated-HD.png" alt="blender" title="Blender" width="40" height="40"/> </a> 
+<a href="https://www.blender.org/" target="_blank" rel="blender"> <img src="https://www.pngmart.com/files/23/Blender-Logo-PNG-Isolated-HD.png" alt="blender" title="Blender" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="visual"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual" title="Visual Studio" width="40" height="40"/> </a> 
+<a href="https://obsproject.com/es" target="_blank" rel="obs"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Open_Broadcaster_Software_Logo.png/2048px-Open_Broadcaster_Software_Logo.png" alt="obs" title="OBS" width="40" height="40"/> </a> 
+<a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="xampp"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" alt="xampp" title="XAMPP" width="40" height="40"/> </a> 
+<a href="https://www.reaper.fm/" target="_blank" rel="reaper"> <img src="https://images.pling.com/cache/400x400/img/00/00/55/78/57/1349568/e2ca8be3dc0b8bab8782e56d96459d749e65.png" alt="reaper" title="Reaper" width="40" height="40"/> </a> 
+<a href="https://www.reaper.fm/" target="_blank" rel="7zip"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/1200px-7ziplogo.svg.png" alt="7zip" title="7-Zip" width="40" height="40"/> </a> 
+
+
 </p>
 
 
