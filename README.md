@@ -82,7 +82,6 @@
 </p>
 
 
-<br></br>
 <h3 align="left">Herramientas:</h3> 
 <p align="left"> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="illustrator"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" title="Adobe Illustrator" width="40" height="40"/> </a> 
