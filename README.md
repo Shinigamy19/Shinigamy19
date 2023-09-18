@@ -100,7 +100,7 @@
 <a href="https://obsproject.com/es" target="_blank" rel="obs"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Open_Broadcaster_Software_Logo.png/2048px-Open_Broadcaster_Software_Logo.png" alt="obs" title="OBS" width="40" height="40"/> </a> 
 <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="xampp"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" alt="xampp" title="XAMPP" width="40" height="40"/> </a> 
 <a href="https://www.reaper.fm/" target="_blank" rel="reaper"> <img src="https://images.pling.com/cache/400x400/img/00/00/55/78/57/1349568/e2ca8be3dc0b8bab8782e56d96459d749e65.png" alt="reaper" title="Reaper" width="40" height="40"/> </a> 
-<a href="https://www.reaper.fm/" target="_blank" rel="7zip"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/1200px-7ziplogo.svg.png" alt="7zip" title="7-Zip" width="40" height="40"/> </a> 
+<a href="https://www.7-zip.org/" target="_blank" rel="7zip"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/1200px-7ziplogo.svg.png" alt="7zip" title="7-Zip" width="40" height="40"/> </a> 
 
 
 </p>
