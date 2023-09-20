@@ -41,7 +41,8 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="c"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="cplusplus"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="csharp"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/> </a> 
-<a href="https://dart.dev/" target="_blank" rel="dart"> <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="dart" title="Dart" width="40" height="40"/> </a> 
+<a href="https://dart.dev/" target="_blank" rel="dart"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="dart" title="Dart" width="40" height="40"/> </a> 
+<a href="https://skia.org/" target="_blank" rel="skia"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/1200px-Skia_Project_Logo.svg.png" alt="skia" title="Skia" width="40" height="30"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="php"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> </a>
 <a href="https://www.json.org/json-es.html" target="_blank" rel="json"> <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="json" title="JSON" width="40" height="40"/> </a> 
