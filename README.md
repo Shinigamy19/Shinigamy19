@@ -85,7 +85,7 @@
 <a href="https://unity.com/" target="_blank" rel="unity"> <img src="https://i0.wp.com/clay-atlas.com/wp-content/uploads/2021/06/pngegg.png?fit=512%2C512&ssl=1" alt="unity" width="40" height="40" title="Unity"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="unreal"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" title="Unreal Engine"/> </a> 
 <a href="https://godotengine.org/" target="_blank" rel="godot"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="godot" width="40" height="40" title="Godot"/> </a> 
-<a href="https://gamemaker.io/en" target="_blank" rel="gamemaker"> <img src="https://camo.githubusercontent.com/f8b5a241bd408776a9fef883e0e4b16ccedfebaf5c3e4c593b0b50f5bed79edb/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f67616d652d6d616b65722d322d3536393438352e706e67" alt="gamemaker" title="Game Maker" width="40" height="40"/> </a> 
+<a href="https://gamemaker.io/en" target="_blank" rel="gamemaker"> <img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1667475561" alt="gamemaker" title="Game Maker" width="40" height="40"/> </a> 
 </p>
 </div>
 <div class="container">
