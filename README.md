@@ -27,7 +27,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="html5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="css3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="javascript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="bootstrap"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="bootstrap"> <img src="https://imgs.search.brave.com/NWeterA1SdqvNOf1fuMX3_E7jblC2S8lJ2Wv16c0cXQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2IyL0Jv/b3RzdHJhcF9sb2dv/LnN2Zy8yMjBweC1C/b290c3RyYXBfbG9n/by5zdmcucG5n" alt="bootstrap" title="Bootstrap" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="react"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="vuejs"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="Vue.js" width="40" height="40"/> </a> 
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="vuetify"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" title="Vuetify.js" width="40" height="40"/> </a> 
@@ -44,6 +44,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="cplusplus"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="csharp"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="php"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="Laravel"> <img src="https://imgs.search.brave.com/1PHMW6OqPcFW524Ave1o9Ay6o1Iq-1RH_yh8TkYYQhQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sYXJh/dmVsLmlvL2ltYWdl/cy9sYXJhdmVsLnBu/Zw" alt="Laravel" title="Laravel" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="python"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/> </a>
 <a href="https://www.json.org/json-es.html" target="_blank" rel="json"> <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="json" title="JSON" width="40" height="40"/> </a> 
 <a href="https://discordjs.guide" target="_blank" rel="discordjs"> <img src="https://storage.googleapis.com/replit/images/1622627157118_630322d0cae0015ae94e3fdbed14f62b.png" alt="discordjs" title="Discord.js" width="40" height="40"/> </a>
@@ -57,6 +58,7 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="ruby"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" title="Ruby" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="sqlite"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" title="Sqlite" width="40" height="40"/> </a> 
 <a href="https://cordova.apache.org/" target="_blank" rel="apachecordova"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" title="Apachecordova" width="40" height="40"/> </a> 
+
 
 
 </p>
