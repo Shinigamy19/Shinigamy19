@@ -74,6 +74,7 @@
 <a href="https://flutter.dev" target="_blank" rel="flutter"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="Flutter" width="40" height="40"/> </a> 
 <a href="https://dart.dev/" target="_blank" rel="dart"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="dart" title="Dart" width="40" height="40"/> </a> 
 <a href="https://skia.org/" target="_blank" rel="skia"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Skia_Project_Logo.svg/1200px-Skia_Project_Logo.svg.png" alt="skia" title="Skia" width="40" height="30"/> </a> 
+<a href="https://kotlinlang.org" target="_blank" rel="kotlin"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin" title="Kotlin" width="40" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="heroku"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" title="Heroku" width="40" height="40"/> </a>  
 <a href="https://ifttt.com/" target="_blank" rel="ifttt"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" title="IFTTT" alt="ifttt" width="40" height="40"/> </a>
