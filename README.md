@@ -1,7 +1,7 @@
 <!---<img src="Banner.png"> Para un futuro-->
 
 <h1 align="center">Hola, Soy Shinigamy19!</h1>
-<h3 align="center">Y soy estudiante de Diseño Multimedia.</h3>
+<h3 align="center">Y soy Diseñador Multimedia.</h3>
 
 
 <h3 align="center">Mis redes sociales:</h3>
