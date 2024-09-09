@@ -29,6 +29,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="html5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="css3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="javascript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="tailwind"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" title="Tailwindcss" width="50" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="bootstrap"> <img src="https://imgs.search.brave.com/NWeterA1SdqvNOf1fuMX3_E7jblC2S8lJ2Wv16c0cXQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2IyL0Jv/b3RzdHJhcF9sb2dv/LnN2Zy8yMjBweC1C/b290c3RyYXBfbG9n/by5zdmcucG5n" alt="bootstrap" title="Bootstrap" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="react"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank" rel="vuejs"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="Vue.js" width="40" height="40"/> </a> 
@@ -90,7 +91,9 @@
 <a href="https://unity.com/" target="_blank" rel="unity"> <img src="https://i0.wp.com/clay-atlas.com/wp-content/uploads/2021/06/pngegg.png?fit=512%2C512&ssl=1" alt="unity" width="40" height="40" title="Unity"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="unreal"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" title="Unreal Engine"/> </a> 
 <a href="https://godotengine.org/" target="_blank" rel="godot"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="godot" width="40" height="40" title="Godot"/> </a> 
-<a href="https://gamemaker.io/en" target="_blank" rel="gamemaker"> <img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg?1667475561" alt="gamemaker" title="Game Maker" width="40" height="40"/> </a> 
+<a href="https://gamemaker.io/en" target="_blank" rel="gamemaker"> <img src="https://images.sftcdn.net/images/t_app-icon-m/p/857aef91-1205-4de4-895b-125e66acb5b7/3172864888/gamemaker-studio-icon.png" alt="gamemaker" title="Game Maker" width="40" height="40"/> </a> 
+<a href="https://www.raspberrypi.com/software/" target="_blank" rel="rasbian"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspbian" title="Raspberry Pi OS" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="docker"> <img src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo-700x588.png" alt="docker" title="Docker" width="40" height="40"/> </a> 
 </p>
 </div>
 <div class="container">
@@ -110,10 +113,10 @@
 <a href="https://www.coreldraw.com/la/" target="_blank" rel="corel"> <img src="https://seeklogo.com/images/C/coreldraw-2019-logo-73390B2962-seeklogo.com.png" alt="corel" title="Corel Draw" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="blender"> <img src="https://www.pngmart.com/files/23/Blender-Logo-PNG-Isolated-HD.png" alt="blender" title="Blender" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="visual"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual" title="Visual Studio" width="40" height="40"/> </a> 
-<a href="https://obsproject.com/es" target="_blank" rel="obs"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Open_Broadcaster_Software_Logo.png/2048px-Open_Broadcaster_Software_Logo.png" alt="obs" title="OBS" width="40" height="40"/> </a> 
+<a href="https://obsproject.com/es" target="_blank" rel="obs"> <img src="https://imgs.search.brave.com/MY4iKEv4PgsXeCLhRDkAMB6cx0Y4-6RLfHaKhR6e01E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2QzL09C/U19TdHVkaW9fTG9n/by5zdmcvMjIwcHgt/T0JTX1N0dWRpb19M/b2dvLnN2Zy5wbmc" alt="obs" title="OBS" width="40" height="40"/> </a> 
 <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="xampp"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/1200px-XAMPP_logo.svg.png" alt="xampp" title="XAMPP" width="40" height="40"/> </a> 
 <a href="https://www.reaper.fm/" target="_blank" rel="reaper"> <img src="https://images.pling.com/cache/400x400/img/00/00/55/78/57/1349568/e2ca8be3dc0b8bab8782e56d96459d749e65.png" alt="reaper" title="Reaper" width="40" height="40"/> </a> 
-<a href="https://www.7-zip.org/" target="_blank" rel="7zip"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/1200px-7ziplogo.svg.png" alt="7zip" title="7-Zip" width="40" height="40"/> </a> 
+<a href="https://www.7-zip.org/" target="_blank" rel="7zip"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/7ziplogo.svg/1200px-7ziplogo.svg.png" alt="7zip" title="7-Zip" width="50" height="40"/> </a> 
 
 
 </p>
