@@ -137,7 +137,7 @@
 <div>
 <h3 align="center">Donaciones:</h3>
 <p align="center">
-<a href="https://ceneka.net/mp/d/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://seeklogo.com/images/M/mercado-pago-logo-52B7182205-seeklogo.com.png?v=638388567080000000" alt="shinigamy19" height="35" width="35" title="Donaciones Por Mercado Pago" /></a>
+<a href="https://ceneka.net/mp/d/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://github.com/Shinigamy19/repo-svg-iconos/blob/main/Logos/Mercado%20Pago.png?raw=true" alt="shinigamy19" height="35" width="35" title="Donaciones Por Mercado Pago" /></a>
 <a href="https://www.paypal.me/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="px9fcpbp3T" height="30" width="30" title="Donaciones Por PayPal"/></a>
 <a href="https://www.patreon.com/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" alt="px9fcpbp3T" height="30" width="30" title="Donaciones Por Patreon"/></a>
 
