@@ -1,8 +1,8 @@
 <!---<img src="Banner.png"> Para un futuro-->
-
+<div align=center>
 <h1 align="center">Hola, Soy Shinigamy19!</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2387F7&center=true&vCenter=true&width=435&lines=Y+soy+Dise%C3%B1ador+Multimedia." alt="Typing SVG" />
-
+</div>
 
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
