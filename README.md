@@ -6,18 +6,42 @@
 
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
-<a href="https://www.youtube.com/c/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shinigamy19" height="35" width="35" title="Mi canal de Youtube" /></a>
-<a href="https://twitch.tv/shinigamy_19" target="_blank" rel="noopener"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/external-twitch-social-media-justicon-flat-justicon.png" alt="px9fcpbp3T" height="30" width="30" title="Mi canal de Twitch"/></a>
-<a href="https://kick.com/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://img.freepik.com/premium-vector/kick-logo-vector-download-kick-streaming-icon-logo-vector-eps_691560-10814.jpg" alt="px9fcpbp3T" height="30" width="30" title="Mi canal de Kick"/></a>
-<a href="https://discord.gg/px9fcpbp3T" target="_blank" rel="noopener"><img align="center" src="https://github.com/Shinigamy19/repo-svg-iconos/blob/main/Logos/Discord.png" alt="Discord" title="Mi Server de Discord" height="30" width="30" style="border-radius: 4px 4px 4px 4px"  /></a>
-<a href="https://instagram.com/shinigamy19_art" target="_blank" rel="noopener"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="shinigamy19_art" title="Mi instagram de Artista" height="30" width="30" /></a>
-<a href="https://instagram.com/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" title="Mi Intagram Personal" alt="shinigamy19" height="30" width="30" /></a>
-<a href="https://www.tiktok.com/@shinigamy_19" target="_blank" rel="noopener"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/2500/tiktok-icon-white-512.png" alt="shinigamy19" title="Mi Tiktok" height="30" width="30" style="border-radius: 4px 4px 4px 4px" /></a>
-<a href="https://linkedin.com/in/eros-benitez" target="_blank" rel="noopener"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="eros-benitez" title="Mi LinkedIn" height="30" width="30" style="border-radius: 4px 4px 4px 4px" /></a>
-<a href="https://www.behance.net/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shinigamy19" title="Mi Behance" height="30" width="30" /></a>
-<a href="https://shinigamy19.itch.io/" target="_blank" rel="noopener"><img align="center" src="https://static.itch.io/images/app-icon.svg" alt="shinigamy19" title="Mi perfil de Itch" height="30" width="30" style="border-radius: 4px 4px 4px 4px" /></a>
-<a href="https://fb.com/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shinigamy19" title="Mi facebook" height="30" width="30" /></a>
-<a href="mailto:erosbenitezd@gmail.com" target="_blank" rel="noopener"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="shinigamy19" title="Mi Mail" height="30" width="35" /></a>
+<a href="https://www.youtube.com/c/shinigamy19" target="_blank" rel="noopener">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shinigamy19" height="35" width="35" title="Mi canal de Youtube" />
+</a>
+<a href="https://twitch.tv/shinigamy_19" target="_blank" rel="noopener">
+    <img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/external-twitch-social-media-justicon-flat-justicon.png" alt="px9fcpbp3T" height="30" width="30" title="Mi canal de Twitch"/>
+</a>
+<a href="https://kick.com/shinigamy19" target="_blank" rel="noopener">
+    <img align="center" src="https://img.freepik.com/premium-vector/kick-logo-vector-download-kick-streaming-icon-logo-vector-eps_691560-10814.jpg" alt="px9fcpbp3T" height="30" width="30" title="Mi canal de Kick"/>
+</a>
+<a href="https://discord.gg/px9fcpbp3T" target="_blank" rel="noopener">
+    <img align="center" src="https://img.icons8.com/?size=80&id=n35VW8czPq4Q&format=png" alt="Discord" title="Mi Server de Discord" height="30" width="30" style="border-radius: 4px 4px 4px 4px"  />
+</a>
+<a href="https://instagram.com/shinigamy19_art" target="_blank" rel="noopener">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="shinigamy19_art" title="Mi instagram de Artista" height="30" width="30" />
+</a>
+<a href="https://instagram.com/shinigamy19" target="_blank" rel="noopener">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" title="Mi Intagram Personal" alt="shinigamy19" height="30" width="30" />
+</a>
+<a href="https://www.tiktok.com/@shinigamy_19" target="_blank" rel="noopener">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/2500/tiktok-icon-white-512.png" alt="shinigamy19" title="Mi Tiktok" height="30" width="30" style="border-radius: 4px 4px 4px 4px" />
+</a>
+<a href="https://linkedin.com/in/eros-benitez" target="_blank" rel="noopener">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="eros-benitez" title="Mi LinkedIn" height="30" width="30" style="border-radius: 4px 4px 4px 4px" />
+</a>
+<a href="https://www.behance.net/shinigamy19" target="_blank" rel="noopener">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shinigamy19" title="Mi Behance" height="30" width="30" />
+</a>
+<a href="https://shinigamy19.itch.io/" target="_blank" rel="noopener">
+    <img align="center" src="https://static.itch.io/images/app-icon.svg" alt="shinigamy19" title="Mi perfil de Itch" height="30" width="30" style="border-radius: 4px 4px 4px 4px" />
+</a>
+<a href="https://fb.com/shinigamy19" target="_blank" rel="noopener">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shinigamy19" title="Mi facebook" height="30" width="30" />
+</a>
+<a href="mailto:erosbenitezd@gmail.com" target="_blank" rel="noopener">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="shinigamy19" title="Mi Mail" height="30" width="35" />
+</a>
 
 </p>
 <br></br>
@@ -105,12 +129,12 @@
 <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noopener" rel="audition"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/640px-Adobe_Audition_CC_icon_%282020%29.svg.png" alt="audition" title="Adobe Audition" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/ar/products/premiere.html" target="_blank" rel="noopener" rel="premiere"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere" title="Adobe Premiere" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/es/products/aftereffects.html" target="_blank" rel="noopener" rel="after"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png" alt="after" title="Adobe After Effects" width="40" height="40"/> </a> 
-<a href="https://helpx.adobe.com/ar/media-encoder/get-started.html" target="_blank" rel="noopener" rel="mediaencoder"> <img src="https://github.com/Shinigamy19/repo-svg-iconos/blob/main/Logos/mediaencore.png?raw=true" alt="mediaencoder" title="Adobe Media Encoder" width="40" height="40"/> </a> 
+<a href="https://helpx.adobe.com/ar/media-encoder/get-started.html" target="_blank" rel="noopener" rel="mediaencoder"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Media_Encoder_Icon.svg/512px-Adobe_Media_Encoder_Icon.svg.png?20200618113117g" alt="mediaencoder" title="Adobe Media Encoder" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/es/products/photoshop-lightroom.html" target="_blank" rel="noopener" rel="lightroom"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1200px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png" alt="lightroom" title="Adobe Lightroom" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/es/products/indesign.html" target="_blank" rel="noopener" rel="indesign"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/120px-Adobe_InDesign_CC_icon.svg.png" alt="indesign" title="Adobe Indesign" width="40" height="40"/> </a> 
-<a href="https://www.aseprite.org/" target="_blank" rel="noopener" rel="aseprite"> <img src="https://github.com/Shinigamy19/repo-svg-iconos/blob/main/Logos/aseprite.png?raw=true" alt="aseprite" title="Aseprite" width="40" height="40" style="border-radius: 8px 8px 8px 8px"/> </a>
+<a href="https://www.aseprite.org/" target="_blank" rel="noopener" rel="aseprite"> <img src="https://img.icons8.com/?size=50&id=bo6rRzvwKQA3&format=png" alt="aseprite" title="Aseprite" width="40" height="40" style="border-radius: 8px 8px 8px 8px"/> </a>
 <a href="https://krita.org/es/" target="_blank" rel="noopener" rel="krita"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Krita_Application_Logo.svg/256px-Krita_Application_Logo.svg.png" alt="krita" title="Krita" width="40" height="40"/> </a>
-<a href="https://www.coreldraw.com/la/" target="_blank" rel="noopener" rel="corel"> <img src="https://github.com/Shinigamy19/repo-svg-iconos/blob/main/Logos/Corel%20Draw.png?raw=true" alt="corel" title="Corel Draw" width="40" height="40"/> </a>
+<a href="https://www.coreldraw.com/la/" target="_blank" rel="noopener" rel="corel"> <img src="https://img.icons8.com/?size=48&id=9kTbRIN6cDXX&format=png" alt="corel" title="Corel Draw" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noopener" rel="blender"> <img src="https://www.pngmart.com/files/23/Blender-Logo-PNG-Isolated-HD.png" alt="blender" title="Blender" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener" rel="visual"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual" title="Visual Studio" width="40" height="40"/> </a> 
 <a href="https://obsproject.com/es" target="_blank" rel="noopener" rel="obs"> <img src="https://imgs.search.brave.com/MY4iKEv4PgsXeCLhRDkAMB6cx0Y4-6RLfHaKhR6e01E/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2QzL09C/U19TdHVkaW9fTG9n/by5zdmcvMjIwcHgt/T0JTX1N0dWRpb19M/b2dvLnN2Zy5wbmc" alt="obs" title="OBS" width="40" height="40"/> </a> 
@@ -131,15 +155,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinigamy19&" alt="shinigamy19" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinigamy19&show_icons=true&locale=en&layout=compact" alt="shinigamy19" /></p>
-
+<br></br>
+<br></br>
 </div>
-
+<br></br>
 <div>
 <h3 align="center">Donaciones:</h3>
 <p align="center">
-<a href="https://ceneka.net/mp/d/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://github.com/Shinigamy19/repo-svg-iconos/blob/main/Logos/Mercado%20Pago.png?raw=true" alt="shinigamy19" height="35" width="35" title="Donaciones Por Mercado Pago" /></a>
+<a href="https://ceneka.net/mp/d/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://img.icons8.com/?size=48&id=nTLVtpxsNPaz&format=png" alt="shinigamy19" height="35" width="35" title="Donaciones Por Mercado Pago" /></a>
 <a href="https://www.paypal.me/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="px9fcpbp3T" height="30" width="30" title="Donaciones Por PayPal"/></a>
-<a href="https://www.patreon.com/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://github.com/Shinigamy19/repo-svg-iconos/blob/main/Logos/Patreon.png" alt="px9fcpbp3T" height="30" width="30" title="Donaciones Por Patreon"/></a>
+<a href="https://www.patreon.com/shinigamy19" target="_blank" rel="noopener"><img align="center" src="https://www.vectorlogo.zone/logos/patreon/patreon-icon.svg" alt="px9fcpbp3T" height="30" width="30" title="Donaciones Por Patreon"/></a>
 
 </p>
 <p align="center">
