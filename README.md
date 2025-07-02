@@ -155,10 +155,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinigamy19&" alt="shinigamy19" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinigamy19&show_icons=true&locale=en&layout=compact" alt="shinigamy19" /></p>
-<br></br>
-<br></br>
+
 </div>
-<br></br>
+
 <div>
 <h3 align="center">Donaciones:</h3>
 <p align="center">
