@@ -17,7 +17,7 @@
 <a href="https://www.tiktok.com/@shinigamy_19" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/tiktok-icon-dark.svg" alt="shinigamy19" title="Mi Tiktok" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/eros-benitez" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/linkedin.svg" alt="eros-benitez" title="Mi LinkedIn" height="30" width="30" style="border-radius: 4px 4px 4px 4px" /></a>
 <a href="https://www.behance.net/shinigamy19" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/Behance.svg" alt="shinigamy19" title="Mi Behance" height="30" width="30" /></a>
-<a href="https://shinigamy19.itch.io/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/itchio.svg" alt="shinigamy19" title="Mi perfil de Itch" height="30" width="30" style="border-radius: 4px 4px 4px 4px" /></a>
+<a href="https://shinigamy19.itch.io/" target="_blank" rel="noopener noreferrer"><img align="center" src="Assets/itchio.svg" alt="shinigamy19" title="Mi perfil de Itch" height="30" width="30" /></a>
 <a href="https://fb.com/shinigamy19" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/Facebook.svg" alt="shinigamy19" title="Mi facebook" height="30" width="30" /></a>
 <a href="mailto:erosbenitezd@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/gmail.svg" alt="shinigamy19" title="Mi Mail" height="30" width="35" /></a>
 
@@ -50,7 +50,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"> <img src="./Assets/bootstrap.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/react_dark.svg" alt="react" title="React" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/vue.svg" alt="vuejs" title="Vue.js" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noopener noreferrer"> <img src="./Assets/angularjs.svg" alt="angular" title="Angular" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noopener noreferrer"> <img src="Assets/angular.svg" alt="angular" title="Angular" width="40" height="40"/> </a>
 <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/jQuery.svg" alt="jquery" title="jQuery" width="40" height="40"/> </a>
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/vuetify.svg" alt="vuetify" title="Vuetify.js" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/laravel.svg" alt="Laravel" title="Laravel" width="40" height="40"/> </a>
@@ -147,7 +147,7 @@
 <a href="https://inkscape.org/es/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/Inkscape.svg" alt="inkscape" title="Inkscape" width="40" height="40"/> </a>
 <a href="https://krita.org/es/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/Calligra_Krita_icon.svg" alt="krita" title="Krita" width="40" height="40"/> </a>
 <a href="https://www.gimp.org/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/GIMP.svg" alt="gimp" title="Gimp" width="40" height="40"/> </a>
-<a href="https://www.coreldraw.com/la/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/coreldraw.svg" alt="corel" title="Corel Draw" width="40" height="40"/> </a>
+<a href="https://www.coreldraw.com/la/" target="_blank" rel="noopener noreferrer"> <img src="Assets/coreldraw.svg" alt="corel" title="Corel Draw" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/blender.svg" alt="blender" title="Blender" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/vscode.svg" alt="visual" title="Visual Studio" width="40" height="40"/> </a>
 <a href="https://obsproject.com/es" target="_blank" rel="noopener noreferrer"> <img src="./Assets/obs.svg" alt="obs" title="OBS" width="40" height="40"/> </a>
