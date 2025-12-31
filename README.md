@@ -146,7 +146,7 @@
 <a href="https://inkscape.org/es/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/Inkscape.svg" alt="inkscape" title="Inkscape" width="40" height="40"/> </a>
 <a href="https://krita.org/es/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/Calligra_Krita_icon.svg" alt="krita" title="Krita" width="40" height="40"/> </a>
 <a href="https://www.gimp.org/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/GIMP.svg" alt="gimp" title="Gimp" width="40" height="40"/> </a>
-<a href="https://www.coreldraw.com/la/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/coreldraw.svg" alt="corel" title="Corel Draw" width="40" height="40"/> </a>
+<a href="https://www.coreldraw.com/la/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/Coreldraw.svg" alt="corel" title="Corel Draw" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/blender.svg" alt="blender" title="Blender" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/vscode.svg" alt="visual" title="Visual Studio" width="40" height="40"/> </a>
 <a href="https://obsproject.com/es" target="_blank" rel="noopener noreferrer"> <img src="./Assets/obs.svg" alt="obs" title="OBS" width="40" height="40"/> </a>
