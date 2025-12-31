@@ -50,7 +50,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"> <img src="./Assets/bootstrap.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/react_dark.svg" alt="react" title="React" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/vue.svg" alt="vuejs" title="Vue.js" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noopener noreferrer"> <img src="./Assets/AngularJS.svg" alt="angular" title="Angular" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noopener noreferrer"> <img src="./Assets/angular.svg" alt="angular" title="Angular" width="40" height="40"/> </a>
 <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/jQuery.svg" alt="jquery" title="jQuery" width="40" height="40"/> </a>
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/vuetify.svg" alt="vuetify" title="Vuetify.js" width="40" height="40"/> </a>
 <a href="https://laravel.com/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/laravel.svg" alt="Laravel" title="Laravel" width="40" height="40"/> </a>
