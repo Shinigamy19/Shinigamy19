@@ -1,4 +1,3 @@
-<!-- markdownlint-disable MD033 -->
 
 <!---<img src="Banner.png"> Para un futuro-->
 <div align=center>
