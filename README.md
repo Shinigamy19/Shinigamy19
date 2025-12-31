@@ -86,7 +86,7 @@
 <div class="container">
 <h3 align="left">Desarrollo Móvil:</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noopener noreferrer"> <img src="./Assets/Android Studio.svg" title="Android" alt="android" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noopener noreferrer"> <img src="./Assets/android-studio.svg" title="Android" alt="android" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer"> <img src="./Assets/kotlin.svg" alt="kotlin" title="Kotlin" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"> <img src="./Assets/flutter.svg" alt="flutter" title="Flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer"> <img src="./Assets/Dart.svg" alt="dart" title="Dart" width="40" height="40"/> </a>
