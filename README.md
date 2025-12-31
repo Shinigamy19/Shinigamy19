@@ -16,7 +16,7 @@
 <a href="https://www.tiktok.com/@shinigamy_19" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/tiktok-icon-dark.svg" alt="shinigamy19" title="Mi Tiktok" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/eros-benitez" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/linkedin.svg" alt="eros-benitez" title="Mi LinkedIn" height="30" width="30" style="border-radius: 4px 4px 4px 4px" /></a>
 <a href="https://www.behance.net/shinigamy19" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/Behance.svg" alt="shinigamy19" title="Mi Behance" height="30" width="30" /></a>
-<a href="https://shinigamy19.itch.io/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/itchio.svg" alt="shinigamy19" title="Mi perfil de Itch" height="30" width="30" /></a>
+<a href="https://shinigamy19.itch.io/" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/Itchio.svg" alt="shinigamy19" title="Mi perfil de Itch" height="30" width="30" /></a>
 <a href="https://fb.com/shinigamy19" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/Facebook.svg" alt="shinigamy19" title="Mi facebook" height="30" width="30" /></a>
 <a href="mailto:erosbenitezd@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="./Assets/gmail.svg" alt="shinigamy19" title="Mi Mail" height="30" width="35" /></a>
 
